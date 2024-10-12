@@ -1,4 +1,4 @@
-1. In this section I'll be learning the following task:
+1. In this section I'll be learning the following task to become familiar with how to use Git:
 - What is a Git Repo
 - About the Git Workflow
 - The .git folder
