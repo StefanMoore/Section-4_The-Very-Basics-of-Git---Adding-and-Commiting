@@ -1,0 +1,5 @@
+# Ignore all files in any directory named Images
+Images/
+
+# Ignore all .log files
+*.log
