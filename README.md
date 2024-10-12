@@ -4,7 +4,7 @@
 - The .git folder
 - Staging Changes
 
-1. Commands
+2. Commands
 - `git init`
 - `git status`
 - `git add`
